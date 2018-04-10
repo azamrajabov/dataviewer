@@ -15,4 +15,4 @@ $dataObj->setParam('dateFormat', "Y-m-d")
         ->setParam('dateField', 'ReleaseDate')
         ->setParam('currencyField', 'Price')
         ->setOrder('ID', 'ASC')
-        ->render('list');
+        ->render('table');
