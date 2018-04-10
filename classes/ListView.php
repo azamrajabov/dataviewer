@@ -12,7 +12,7 @@ namespace DataViewer;
  * Class TableView
  * @package DataViewer
  */
-class ListView
+class ListView implements DataRenderInterface
 {
     public $data = [];
     public $dateFormat = "Y-m-d";
