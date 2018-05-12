@@ -8,7 +8,7 @@ Don't forget to add require autoloader
 
 then run <i>composer update</i> commmand line
 
-full code:
+Example code:
 ``` php
 require __DIR__ . '/vendor/autoload.php';
 
